@@ -148,4 +148,4 @@
 * git reset (--soft/--hard)
 * git clone
 * git pull
-* git push 
+* git push
