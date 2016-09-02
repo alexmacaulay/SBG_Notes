@@ -157,3 +157,14 @@
 	* Is always part of a squad, and does real work
 	* Is the **line manager** for chapter members
 	* Develops chapter members
+
+### Guilds
+
+* Communities of interest
+* Organisation-wide
+* No restrictions on membership
+* Communicate regularly
+	* To share tools, code, examples, practices, etc.
+	* Meet regularly and organise events
+	* Talk regularly in #channels and mailing lists
+* Has a **Guild Coordinator**
